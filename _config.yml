@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: C# Cipher
+description: A simple cipher that lets you shift letters written for C# dotnet applications. 
+show_downloads: true
