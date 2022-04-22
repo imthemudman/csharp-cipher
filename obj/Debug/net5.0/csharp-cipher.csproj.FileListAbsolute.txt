@@ -1,0 +1,16 @@
+C:\Users\sglaw\Desktop\git\csharp-cipher\bin\Debug\net5.0\csharp-cipher.exe
+C:\Users\sglaw\Desktop\git\csharp-cipher\bin\Debug\net5.0\csharp-cipher.deps.json
+C:\Users\sglaw\Desktop\git\csharp-cipher\bin\Debug\net5.0\csharp-cipher.runtimeconfig.json
+C:\Users\sglaw\Desktop\git\csharp-cipher\bin\Debug\net5.0\csharp-cipher.runtimeconfig.dev.json
+C:\Users\sglaw\Desktop\git\csharp-cipher\bin\Debug\net5.0\csharp-cipher.dll
+C:\Users\sglaw\Desktop\git\csharp-cipher\bin\Debug\net5.0\ref\csharp-cipher.dll
+C:\Users\sglaw\Desktop\git\csharp-cipher\bin\Debug\net5.0\csharp-cipher.pdb
+C:\Users\sglaw\Desktop\git\csharp-cipher\obj\Debug\net5.0\csharp-cipher.csprojAssemblyReference.cache
+C:\Users\sglaw\Desktop\git\csharp-cipher\obj\Debug\net5.0\csharp-cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sglaw\Desktop\git\csharp-cipher\obj\Debug\net5.0\csharp-cipher.AssemblyInfoInputs.cache
+C:\Users\sglaw\Desktop\git\csharp-cipher\obj\Debug\net5.0\csharp-cipher.AssemblyInfo.cs
+C:\Users\sglaw\Desktop\git\csharp-cipher\obj\Debug\net5.0\csharp-cipher.csproj.CoreCompileInputs.cache
+C:\Users\sglaw\Desktop\git\csharp-cipher\obj\Debug\net5.0\csharp-cipher.dll
+C:\Users\sglaw\Desktop\git\csharp-cipher\obj\Debug\net5.0\ref\csharp-cipher.dll
+C:\Users\sglaw\Desktop\git\csharp-cipher\obj\Debug\net5.0\csharp-cipher.pdb
+C:\Users\sglaw\Desktop\git\csharp-cipher\obj\Debug\net5.0\csharp-cipher.genruntimeconfig.cache
